@@ -1,22 +1,24 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "I know u’ve been thru so much stuff that would’ve broken anyone else... but u still have the kindest heart I’ve ever seen. 🥺 The way u saved all that love & sweetness despite the pain is why ur the most special person in my life. I’m so proud of the woman u’ve become. ❤️🩹✨", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "Everyone else sees the "strong" u, but I get to see the "childish" u. 🧸 It’s my fav thing about us. The fact that u feel safe enough to be a little kid around me means everything. I’ll spend my whole life making sure u never have to hide that side again. 🫂💖", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "U always talk about ur "bad habits," but honestly? I wouldn't change a single thing. 🚫 I don’t want a perfect girl, I just want u. The messy parts, the moody parts, the habits u think r annoying—they r all part of the girl I love. Ur perfect to me coz ur real. 🥺😭❤️ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "ur emotional intelligence, u understand me better than I understand myself sometimes. 🌎 We have this bond that’s just... different. It’s not just "dating," it’s like our souls finally found a place to rest. I’m so lucky I get to call u mine. 💍🌸
+
+3 Captions to Make Her Heart Melt 🌊 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
