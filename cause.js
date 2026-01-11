@@ -6,17 +6,17 @@
         gif: "gif1.gif"
     },
     { 
-        text: "Everyone else sees the "strong" u, but I get to see the "childish" u. 🧸 It’s my fav thing about us. The fact that u feel safe enough to be a little kid around me means everything. I’ll spend my whole life making sure u never have to hide that side again. 🫂💖", 
+        text: "Everyone else sees the 'strong' u, but I get to see the 'childish' u. 🧸 It’s my fav thing about us. The fact that u feel safe enough to be a little kid around me means everything. I’ll spend my whole life making sure u never have to hide that side again. 🫂💖", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "U always talk about ur "bad habits," but honestly? I wouldn't change a single thing. 🚫 I don’t want a perfect girl, I just want u. The messy parts, the moody parts, the habits u think r annoying—they r all part of the girl I love. Ur perfect to me coz ur real. 🥺😭❤️ ", 
+        text: "U always talk about ur 'bad habits', but honestly? I wouldn't change a single thing. 🚫 I don’t want a perfect girl, I just want u. The messy parts, the moody parts, the habits u think r annoying—they r all part of the girl I love. Ur perfect to me coz ur real. 🥺😭❤️ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "ur emotional intelligence, u understand me better than I understand myself sometimes. 🌎 We have this bond that’s just... different. It’s not just "dating," it’s like our souls finally found a place to rest. I’m so lucky I get to call u mine. 💍🌸
+        text: "ur emotional intelligence, u understand me better than I understand myself sometimes. 🌎 We have this bond that’s just... different. It’s not just 'dating,' it’s like our souls finally found a place to rest. I’m so lucky I get to call u mine. 💍🌸
 
 3 Captions to Make Her Heart Melt 🌊 ", 
         emoji: "🌟",
